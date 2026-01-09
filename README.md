@@ -37,4 +37,4 @@ The system utilizes a **Random Forest Classifier** to analyze behavioral data—
 
       streamlit run App.py
 
-Developed by Md Salman Farsi
+Developed by Md Salman Farsi for Elevate Labs Internship
