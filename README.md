@@ -19,8 +19,9 @@ The system utilizes a **Random Forest Classifier** to analyze behavioral data—
 * **Interactive Interface**: A user-friendly dashboard that allows non-technical staff to make data-driven decisions.
   
 ## 📸 Screenshots
-<img width="1912" height="923" alt="No Churn Output" src="https://github.com/user-attachments/assets/0178e36e-4023-4b29-a68b-66bd45db0eb6" />
-<img width="1912" height="923" alt="No Churn Output" src="https://github.com/user-attachments/assets/59a4bb44-f43f-439f-811b-d46d6cd1e0ae" />
+<img width="1917" height="925" alt="Churn Output" src="https://github.com/user-attachments/assets/39939b57-e464-4052-afbd-41c0fbf90b92" />
+<img width="1912" height="923" alt="No Churn Output" src="https://github.com/user-attachments/assets/f45299b5-f3e1-469d-9a56-36d0fd0e4f92" />
+
 
 ## 📊 Methodology
 1.  **Data Preprocessing**: Handled missing values, scaled numerical features, and applied One-Hot Encoding to categorical variables.
