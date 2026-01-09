@@ -34,4 +34,4 @@ The system utilizes a **Random Forest Classifier** to analyze behavioral data—
    pip install -r requirements.txt
 3. Run the Streamlit app:
 
-   streamlit run App.py
+      streamlit run App.py
