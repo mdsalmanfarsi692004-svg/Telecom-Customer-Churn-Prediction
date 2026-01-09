@@ -36,3 +36,5 @@ The system utilizes a **Random Forest Classifier** to analyze behavioral data—
 3. Run the Streamlit app:
 
       streamlit run App.py
+
+Developed by Md Salman Farsi
