@@ -28,13 +28,15 @@ The system utilizes a **Random Forest Classifier** to analyze behavioral data—
 2.  **Model Selection**: Trained multiple algorithms and selected the **Random Forest Classifier** for its superior performance in handling non-linear data.
 3.  **Deployment**: The final model is integrated into a Streamlit app (`App.py`) for live demonstrations.
 
+## 📷 Live Demo Video
+https://drive.google.com/file/d/1cvDgQc5vMkSRffzcHhDd8Z8I_4n93s5y/view?usp=drivesdk
+
 ## 📂 How to Run Locally
 1. Clone the repository.
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
 3. Run the Streamlit app:
-
       streamlit run App.py
 
 Developed by Md Salman Farsi for Elevate Labs Internship
