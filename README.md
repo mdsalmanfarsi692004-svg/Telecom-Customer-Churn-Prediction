@@ -37,6 +37,7 @@ https://drive.google.com/file/d/1cvDgQc5vMkSRffzcHhDd8Z8I_4n93s5y/view?usp=drive
    ```bash
    pip install -r requirements.txt
 3. Run the Streamlit app:
-      streamlit run App.py
+
+   streamlit run App.py
 
 Developed by Md Salman Farsi for Elevate Labs Internship
