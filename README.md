@@ -69,5 +69,7 @@ text
 4) Run the application:
    streamlit run app.py
 
+## 🔗 **Live App:** [Click Here to View](https://telecom-customer-churn-prediction.streamlit.app/)
+
 👨‍💻 Developed by
 Md Salman Farsi Elevate Labs Internship Project
