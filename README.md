@@ -11,6 +11,8 @@ The system utilizes a **Random Forest Classifier** to analyze behavioral data—
 
 ---
 
+## 🔗 **Live App:** [Click Here to View](https://telecom-customer-churn-prediction.streamlit.app/)
+
 ## 📸 Screenshots
 
 ### 🏠 Home Page
@@ -68,9 +70,7 @@ text
    pip install -r requirements.txt
 4) Run the application:
    streamlit run app.py
-
-## 🔗 **Live App:** [Click Here to View](https://telecom-customer-churn-prediction.streamlit.app/)
-
+   
 ##👨‍💻 Developed by
 
-Md Salman Farsi for Elevate Labs Internship Project
+   Md Salman Farsi for Elevate Labs Internship Project
