@@ -14,13 +14,13 @@ The system utilizes a **Random Forest Classifier** to analyze behavioral data—
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-<img width="1900" alt="home_page" src="images/home.png">
+<img width="1910" height="918" alt="home_page" src="https://github.com/user-attachments/assets/b23996b4-5911-4e4e-9e99-fe66bd22de67" />
 
 ### 🟢 Safe (No Churn)
-<img width="1900" alt="no_churn" src="images/no_churn.png">
+<img width="1890" height="908" alt="no_churn" src="https://github.com/user-attachments/assets/8f152825-5f6b-48e3-913f-471f4973ce67" />
 
 ### 🔴 High Risk (Churn Alert)
-<img width="1900" alt="churn_alert" src="images/churn.png">
+<img width="1887" height="910" alt="churn" src="https://github.com/user-attachments/assets/841f43b5-15a8-4da9-9a1e-098c8b20d838" />
 
 ---
 
