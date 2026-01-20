@@ -17,27 +17,47 @@ The system utilizes a **Random Forest Classifier** to analyze behavioral data—
     * 🔴 **High Risk (Churn):** Identifies users likely to leave and suggests retention discounts.
     * 🟢 **Safe (No Churn):** Identifies loyal customers and suggests upselling premium features or loyalty rewards.
 * **Interactive Interface**: A user-friendly dashboard that allows non-technical staff to make data-driven decisions.
-  
-## 📸 Screenshots
-<img width="1917" height="925" alt="Churn Output" src="https://github.com/user-attachments/assets/39939b57-e464-4052-afbd-41c0fbf90b92" />
-<img width="1912" height="923" alt="No Churn Output" src="https://github.com/user-attachments/assets/f45299b5-f3e1-469d-9a56-36d0fd0e4f92" />
 
+---
+
+## 📸 Screenshots
+
+### 🏠 Home Page
+<img width="1910" height="918" alt="home_page" src="https://github.com/user-attachments/assets/b23996b4-5911-4e4e-9e99-fe66bd22de67" />
+
+### 🟢 Safe (No Churn)
+<img width="1890" height="908" alt="no_churn" src="https://github.com/user-attachments/assets/8f152825-5f6b-48e3-913f-471f4973ce67" />
+
+### 🔴 High Risk (Churn Alert)
+<img width="1887" height="910" alt="churn" src="https://github.com/user-attachments/assets/841f43b5-15a8-4da9-9a1e-098c8b20d838" />
+
+---
 
 ## 📊 Methodology
-1.  **Data Preprocessing**: Handled missing values, scaled numerical features, and applied One-Hot Encoding to categorical variables.
-2.  **Model Selection**: Trained multiple algorithms and selected the **Random Forest Classifier** for its superior performance in handling non-linear data.
-3.  **Deployment**: The final model is integrated into a Streamlit app (`App.py`) for live demonstrations.
+1. **Data Preprocessing**: Handled missing values, scaled numerical features, and applied One-Hot Encoding to categorical variables.
+2. **Model Selection**: Trained multiple algorithms and selected the **Random Forest Classifier** for its superior performance in handling non-linear data.
+3. **Deployment**: The final model is integrated into a Streamlit app (`App.py`) for live demonstrations.
 
-## 📷 Live Demo Video
-https://drive.google.com/file/d/1cvDgQc5vMkSRffzcHhDd8Z8I_4n93s5y/view?usp=drivesdk
+## 🎥 Live Demo
+▶️ **[Watch Project Video](https://drive.google.com/file/d/1cvDgQc5vMkSRffzcHhDd8Z8I_4n93s5y/view?usp=drivesdk)**
 
-## 📂 How to Run Locally
-1. Clone the repository.
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-3. Run the Streamlit app:
+---
 
-   streamlit run App.py
+## 💻 How to Run Locally
 
-Developed by Md Salman Farsi for Elevate Labs Internship
+Run the following commands in your terminal to set up the project:
+
+```bash
+# Clone the repository
+git clone [https://github.com/mdsalmanfarsi692004-svg/Telecom-Customer-Churn-Prediction.git](https://github.com/mdsalmanfarsi692004-svg/Telecom-Customer-Churn-Prediction.git)
+
+# Navigate to the directory
+cd Telecom-Customer-Churn-Prediction
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the app
+streamlit run App.py
+
+Developed by Md Salman Farsi for Elevate Labs
